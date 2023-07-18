@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T06:51:36.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jSZ9ZUJNA63gQ5lOIv0i" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T06:57:30.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AxoeXLy3wu5tQxa_s_AA" version="21.6.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="989" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
         <mxCell id="T61TJ4J4p4tDgYZ1cxIa-219" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-63">
           <mxGeometry x="30" y="380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-221" value="有無需要通報產品/服務?" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-63">
+        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-221" value="己處理解決" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-63">
           <mxGeometry x="30" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T61TJ4J4p4tDgYZ1cxIa-64" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-62">
@@ -363,6 +363,17 @@
         <mxCell id="T61TJ4J4p4tDgYZ1cxIa-218" value="通報產品/服務團隊" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T61TJ4J4p4tDgYZ1cxIa-217">
           <mxGeometry x="-0.7101" relative="1" as="geometry">
             <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-222" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.487;exitY=-0.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="T61TJ4J4p4tDgYZ1cxIa-62" source="T61TJ4J4p4tDgYZ1cxIa-221" target="T61TJ4J4p4tDgYZ1cxIa-202">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="130" as="sourcePoint" />
+            <mxPoint x="480" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-223" value="更新產品/服務&lt;br&gt;開源軟體元件BoM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T61TJ4J4p4tDgYZ1cxIa-222">
+          <mxGeometry x="-0.773" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T61TJ4J4p4tDgYZ1cxIa-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nEBMAfdAkrlof-ZfXLHl-47" source="T61TJ4J4p4tDgYZ1cxIa-19" target="T61TJ4J4p4tDgYZ1cxIa-74">
