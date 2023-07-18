@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T07:55:05.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T44aPBxQWV7znqScdmTC" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T07:57:18.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KAhnUw1j0J-QpnoSMajP" version="21.6.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="989" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-5" value="開源軟體庫" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="nEBMAfdAkrlof-ZfXLHl-51">
+        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-5" value="開源軟體庫" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nEBMAfdAkrlof-ZfXLHl-51">
           <mxGeometry x="10" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T61TJ4J4p4tDgYZ1cxIa-122" value="開源軟體更新作業" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="nEBMAfdAkrlof-ZfXLHl-51">
@@ -207,7 +207,7 @@
         <mxCell id="T61TJ4J4p4tDgYZ1cxIa-99" value="能否上線?" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="nEBMAfdAkrlof-ZfXLHl-57">
           <mxGeometry x="30" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-113" value="產品/服務&lt;br&gt;開源軟體元件&lt;br&gt;BoM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="nEBMAfdAkrlof-ZfXLHl-57">
+        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-113" value="產品/服務&lt;br&gt;開源軟體元件&lt;br&gt;BoM" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nEBMAfdAkrlof-ZfXLHl-57">
           <mxGeometry x="10" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nEBMAfdAkrlof-ZfXLHl-58" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="nEBMAfdAkrlof-ZfXLHl-54" vertex="1">
@@ -309,7 +309,7 @@
             <mxRectangle width="140" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-202" value="產品/服務&lt;br&gt;開源軟體元件&lt;br&gt;BoM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-65">
+        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-202" value="產品/服務&lt;br&gt;開源軟體元件&lt;br&gt;BoM" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-65">
           <mxGeometry x="10" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T61TJ4J4p4tDgYZ1cxIa-243" value="產品/服務&lt;br&gt;開源軟體資安評估" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-65">
@@ -464,7 +464,7 @@
             <mxRectangle width="140" height="278" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-251" value="產品/服務&lt;br&gt;開源軟體元件&lt;br&gt;BoM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-240">
+        <mxCell id="T61TJ4J4p4tDgYZ1cxIa-251" value="產品/服務&lt;br&gt;開源軟體元件&lt;br&gt;BoM" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-240">
           <mxGeometry x="10" y="58" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T61TJ4J4p4tDgYZ1cxIa-257" value="產品/服務&lt;br&gt;授權/侵權方案評估" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="T61TJ4J4p4tDgYZ1cxIa-240">
